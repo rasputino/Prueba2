@@ -1,7 +1,3 @@
 Esto es el contenido insulso de un texto
 
-<<<<<<< HEAD
-Lo cambio en el PC
-=======
-Lo cambio en la web
->>>>>>> origin/master
+Lo cambio en la web otra vez
