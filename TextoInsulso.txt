@@ -1,6 +1,6 @@
-Esto es el contenido insulso de un texto
+﻿Esto es el contenido insulso de un texto
 
 Lo cambio en el PC otra vez y cojo el texto de 
 Lo cambio en la web otra vez
 
-Y lo vuelvo a cambiar
+Menudo lío
